@@ -17,4 +17,3 @@ I'm a front-end developer from Poland. I working on multiple frontend projects u
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%23000000.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="angularjs" src="https://img.shields.io/badge/angularjs-%23000000.svg?&style=for-the-badge&logo=angular" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-%23000000.svg?&style=for-the-badge&logo=typescript" />
-<img align="left" alt="Webpack" src="https://img.shields.io/badge/webpack-%23000000.svg?&style=for-the-badge&logo=webpack" />
