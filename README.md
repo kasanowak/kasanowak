@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer from Poland - 🔭 I working on multiple frontend projects using JS and CSS.
+I'm a front-end developer from Poland. I working on multiple frontend projects using JS and CSS.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-nowak/)
@@ -10,20 +10,11 @@ I'm a front-end developer from Poland - 🔭 I working on multiple frontend proj
 <br>
 
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<br>
-
-<!--
-**kasanowak/kasanowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23000000.svg?&style=for-the-badge&logo=html5" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css-%23000000.svg?&style=for-the-badge&logo=css3" />
+<img align="left" alt="css" src="https://img.shields.io/badge/Sass-%23000000.svg?&style=for-the-badge&logo=sass" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-%23000000.svg?&style=for-the-badge&logo=javascript" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%23000000.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="angularjs" src="https://img.shields.io/badge/angularjs-%23000000.svg?&style=for-the-badge&logo=angular" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-%23000000.svg?&style=for-the-badge&logo=typescript" />
+<img align="left" alt="Webpack" src="https://img.shields.io/badge/webpack-%23000000.svg?&style=for-the-badge&logo=webpack" />
